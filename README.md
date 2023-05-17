@@ -21,4 +21,5 @@ This is the assignment for Digital Image Processing
 #### Author
 
 **Gihan Chandeepa**
+** Isurunath Nanayakkara**
 
